@@ -1,0 +1,14 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = AAA
+	email = AAA@DESKTOP-0OUTIKA
+[remote "origin"]
+	url = https://JananiChathurika@github.com/JananiChathurika/Blood-Bank-Management-System.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
